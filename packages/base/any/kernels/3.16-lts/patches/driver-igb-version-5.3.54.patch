@@ -43286,7 +43286,7 @@ diff -Nu a/drivers/net/ethernet/intel/igb/kcompat.h b/drivers/net/ethernet/intel
 +#endif
 +
 +#ifndef AX_RELEASE_CODE
-+#define AX_RELEASE_CODE 0 AX_RELEASE_VERSION(3,0)
++#define AX_RELEASE_CODE AX_RELEASE_VERSION(3,0)
 +#endif
 +
 +#if (AX_RELEASE_CODE && AX_RELEASE_CODE == AX_RELEASE_VERSION(3,0))
