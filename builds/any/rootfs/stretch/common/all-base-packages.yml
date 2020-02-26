@@ -124,3 +124,5 @@
 - python-futures
 - python-enum34
 - python-coverage
+- onl-kernel-4.14-lts-x86-64-all-modules
+- onl-kernel-4.14-lts-x86-64-all
